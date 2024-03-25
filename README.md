@@ -8,7 +8,7 @@ I increased the Hotend to be able to print 290c as no one else I could find do s
 
 I'm printing with PA6-CF from Polymaker so thats why I wanted to max out the temps.
 
-I have not printed with it yet but I have set it up to eventually do so.
+I have finally printed with this config at 290c for my PA6-CF and it worked flawlessly. 0 issues.
 
 Please PID tune your bed and hotend on your own as these are my settings and can varry.
 
