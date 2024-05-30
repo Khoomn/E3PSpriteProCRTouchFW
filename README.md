@@ -1,3 +1,5 @@
+I have since sold this printer and will not continue to release updates. Use this as a base if newer, better firmwares come out.
+
 IMPORTANT: PUT "thermistor_1.h" under Marlin\src\module\thermistor
 
 This firmware is for the Ender 3 Pro with mainboard v4.2.7. I upgraded my hotend to the Creality Sprite Pro with a CR Touch but the BL touch works the exact same (I think).
